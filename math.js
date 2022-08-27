@@ -29,5 +29,8 @@ for (let i = 0; i <= 30; i++) {
     const randomNumber = Math.random() * 6;
     const rounded = Math.ceil(randomNumber);
     // console.log(randomNumber);
-    console.log(rounded);
+    // console.log(rounded);
 }
+
+const result = Math.pow(5, 2);
+console.log(result);

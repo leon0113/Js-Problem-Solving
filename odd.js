@@ -11,3 +11,6 @@ function oddFriend(nameArray) {
 }
 const output1 = oddFriend(friends);
 console.log(output1);
+
+const result = Math.pow(5, 2);
+console.log(result);
